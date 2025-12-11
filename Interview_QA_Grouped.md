@@ -2,7 +2,7 @@
 
 ## All Questions (Ungrouped – Full Content Provided)
 
-Describe the project and what was the major issue you have faced.
+**Describe the project and what was the major issue you have faced.**
 
 What kind of project have you done in the past
 
